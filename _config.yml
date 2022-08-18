@@ -23,13 +23,13 @@ timezone:
 
 title: yu_xue                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: 一個電機大三生   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  資工, 電機, 紀錄新事物 
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://.github.io'
 
 github:
   username: lin20011213             # change to your github username
